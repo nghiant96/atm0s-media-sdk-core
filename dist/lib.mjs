@@ -7431,7 +7431,7 @@ var RoomMessageChannel = class extends EventEmitter {
 
 // package.json
 var package_default = {
-  name: "@omeet-media-sdk/core",
+  name: "@atm0s-media-sdk/core",
   version: "1.0.0-alpha.4",
   main: "./dist/lib.js",
   module: "./dist/lib.mjs",
